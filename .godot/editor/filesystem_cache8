@@ -1,0 +1,47 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1714701193
+export_presets.cfg::TextFile::-1::1714697864::0::1::::<><>::
+hud.gd::GDScript::-1::1714526616::0::1::::<>CanvasLayer<>::
+hud.tscn::PackedScene::7716361622375933934::1714698508::0::1::::<><>::res://hud.gd<>uid://cvoj8topm5m6c::::res://fonts/Xolonium-Regular.ttf
+icon.svg::CompressedTexture2D::1040886099808826018::1714506098::1714506154::1::::<><>::
+Main.gd::GDScript::-1::1714696294::0::1::::<>Node<>::
+main.tscn::PackedScene::2279720082802620892::1714698508::0::1::::<><>::res://Main.gd<>uid://c4sjsphiq6eal::::res://player.tscn<>uid://conywvc4oooj6::::res://mob.tscn<>uid://dh64l36is21ck::::res://hud.tscn<>uid://cawi6ejsvtnkt::::res://Efects/House In a Forest Loop.ogg<>uid://n64ih68r5e28::::res://Efects/gameover.wav
+mob.gd::GDScript::-1::1714518773::0::1::::<>RigidBody2D<>::
+mob.tscn::PackedScene::5783819691830600057::1714698507::0::1::::<><>::res://mob.gd<>uid://u58v5q54t35f::::res://Animated/enemy/idle_down (1).png<>uid://lhn3yxowbwp7::::res://Animated/enemy/idle_down (2).png<>uid://b0dlfhccey0i7::::res://Animated/enemy/idle_down (3).png<>uid://y5j5u5xhuhj::::res://Animated/enemy/idle_down (4).png<>uid://bq33ked1bca4e::::res://Animated/enemy/idle_up (1).png<>uid://bd5vd4cibufcf::::res://Animated/enemy/idle_up (2).png<>uid://gb4qcchyyqsj::::res://Animated/enemy/idle_up (3).png<>uid://cnuoljlqqjwmr::::res://Animated/enemy/idle_up (4).png<>uid://5npg342voqi1::::res://Animated/enemy/idle_right (1).png<>uid://dy0qsnfxid5ga::::res://Animated/enemy/idle_right (2).png<>uid://dwknnakup2m1g::::res://Animated/enemy/idle_right (3).png<>uid://dvpre4kyn01xj::::res://Animated/enemy/idle_right (4).png
+player.gd::GDScript::-1::1714696294::0::1::::<>Area2D<>::
+player.tscn::PackedScene::6846056028737374419::1714698506::0::1::::<><>::uid://ctgil02n4cabl::::res://Animated/Player/idle_down (1).png<>res://player.gd<>uid://b6hkko4sfptod::::res://Animated/Player/idle_right (1).png<>uid://gti61r7yddi0::::res://Animated/Player/idle_right (2).png<>uid://desrnfhlhl8l0::::res://Animated/Player/idle_down (2).png<>uid://gv6hbrcxmesb::::res://Animated/Player/idle_down (3).png<>uid://fumcl8t0b8c2::::res://Animated/Player/idle_right (3).png<>uid://dcii3y1j555ag::::res://Animated/Player/idle_right (4).png<>uid://e0i45j4fuik0::::res://Animated/Player/idle_down (4).png<>uid://8vs2hgjmlhrj::::res://Animated/Player/idle_up (1).png<>uid://cg1gnf3b4e66f::::res://Animated/Player/idle_up (2).png<>uid://76ywwem0h3oq::::res://Animated/Player/idle_up (3).png<>uid://diecdhuflxj2u::::res://Animated/Player/idle_up (4).png
+::res://android/::1714698288
+::res://Animated/::1714518254
+::res://Animated/enemy/::1714518301
+idle_down (1).png::CompressedTexture2D::1467750969635708697::1714518273::1714518274::1::::<><>::
+idle_down (2).png::CompressedTexture2D::787368544188541406::1714518273::1714518274::1::::<><>::
+idle_down (3).png::CompressedTexture2D::4148012094646294100::1714518273::1714518274::1::::<><>::
+idle_down (4).png::CompressedTexture2D::51384256016262191::1714518273::1714518274::1::::<><>::
+idle_right (1).png::CompressedTexture2D::2133425206307195594::1714518300::1714518301::1::::<><>::
+idle_right (2).png::CompressedTexture2D::8896408050001558524::1714518300::1714518301::1::::<><>::
+idle_right (3).png::CompressedTexture2D::8724872941261214706::1714518299::1714518301::1::::<><>::
+idle_right (4).png::CompressedTexture2D::8665234305575563671::1714518299::1714518301::1::::<><>::
+idle_up (1).png::CompressedTexture2D::3568962908662353662::1714518299::1714518301::1::::<><>::
+idle_up (2).png::CompressedTexture2D::2660200488091176589::1714518299::1714518301::1::::<><>::
+idle_up (3).png::CompressedTexture2D::424986913562351437::1714518299::1714518301::1::::<><>::
+idle_up (4).png::CompressedTexture2D::5727454061845230601::1714518300::1714518301::1::::<><>::
+::res://Animated/Player/::1714518256
+idle_down (1).png::CompressedTexture2D::6119322398131227373::1714509549::1714518172::1::::<><>::
+idle_down (2).png::CompressedTexture2D::7478231903342298747::1714509549::1714518178::1::::<><>::
+idle_down (3).png::CompressedTexture2D::466379800903652933::1714509550::1714518182::1::::<><>::
+idle_down (4).png::CompressedTexture2D::332903933297846365::1714509550::1714518241::1::::<><>::
+idle_right (1).png::CompressedTexture2D::4577351289568598387::1714508995::1714518226::1::::<><>::
+idle_right (2).png::CompressedTexture2D::460898728063419661::1714508996::1714518186::1::::<><>::
+idle_right (3).png::CompressedTexture2D::392964578404521115::1714508996::1714518191::1::::<><>::
+idle_right (4).png::CompressedTexture2D::7316691799734855918::1714508996::1714518231::1::::<><>::
+idle_up (1).png::CompressedTexture2D::2360725272553225887::1714509603::1714518251::1::::<><>::
+idle_up (2).png::CompressedTexture2D::5248036074052970671::1714509603::1714518237::1::::<><>::
+idle_up (3).png::CompressedTexture2D::2311536364357054500::1714509603::1714518247::1::::<><>::
+idle_up (4).png::CompressedTexture2D::7729157501369380438::1714509603::1714518256::1::::<><>::
+::res://Efects/::1714526704
+gameover.wav::AudioStreamWAV::978226173887399975::1698074263::1714526704::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::4818798998372003843::1698074263::1714526704::1::::<><>::
+::res://fonts/::1714524003
+FONTLOG.txt::TextFile::-1::1698074263::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1698074263::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::6276314776745154784::1698074263::1714524003::1::::<><>::
